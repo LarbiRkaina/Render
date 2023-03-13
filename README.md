@@ -1,6 +1,6 @@
 # Render
 
-This is my app running in API_MOCK.
+This is my app running in API_MOCK with MONGO.
 
 This is the url of my app:
 
