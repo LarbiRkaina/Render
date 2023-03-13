@@ -6,7 +6,7 @@ This is the url of my app:
 
 https://mongodeploy.onrender.com
 
-This is my MONGODB_URI environment Variable:
+This is my MONGODB_URI environment variable:
 
 
 ![Captura de pantalla 2023-03-13 a las 16 26 04](https://user-images.githubusercontent.com/107713900/224748696-af254206-5f44-43b9-9453-3275815b0c6b.png)
